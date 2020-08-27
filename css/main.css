@@ -1436,9 +1436,9 @@ svg.finish path {
 
 /* Footer */
 footer {
-	background: url(../img/background.jpg) no-repeat;
+	background: url(../img/footer6.png) no-repeat;
 	background-size: cover;
-	background-position: bottom;
+	background-position: inherit;
 	position: relative;
 }
 
