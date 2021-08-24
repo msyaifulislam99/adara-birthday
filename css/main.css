@@ -1013,7 +1013,8 @@ input.search-field {
 }
 
 .section--blue {
-	background: #6eb5ff
+	/* background: #6eb5ff */
+	background: #f1adc4
 }
 
 .main-hero {
@@ -1088,11 +1089,11 @@ input.search-field {
 		background-repeat: no-repeat;
 	}
 	.date-section__block:after {
-		background-image: url(../img/shark-mini.png);
+		background-image: url(../img/butterfly.png);
 		right: 0;
 	}
 	.date-section__block:before {
-		background-image: url(../img/shark-mini.png);
+		background-image: url(../img/butterfly.png);
 	}
 }
 
@@ -1105,7 +1106,7 @@ input.search-field {
 
 .date-section__block .title--special {
 	font-size: 40px;
-	line-height: 40px;
+	line-height: 60px;
 	margin-bottom: 30px;
 }
 
@@ -1155,7 +1156,8 @@ input.search-field {
 
 .gallery {
 	position: relative;
-	background: #6eb5ff;
+	/* background: #6eb5ff; */
+	background: #f1adc4;
 	background-size: cover;
 	background-position: center;
 }
@@ -1436,7 +1438,7 @@ svg.finish path {
 
 /* Footer */
 footer {
-	background: url(../img/footer1.jpeg) no-repeat;
+	background: url(../img/footer-new.jpg) no-repeat;
 	background-size: cover;
 	background-position: inherit;
 	position: relative;
